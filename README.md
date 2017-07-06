@@ -4,4 +4,4 @@ Data management systems for managing data streams collected via GEONETCast and D
 
 # Releases
 
-- [v2.0.1](https://github.com/52North/WFS-E-Toolbox/releases/tag/v2.0.1)
+- [v2.0.1](https://github.com/52North/GEONETCast-DataManager/releases/tag/v2.0.1)
